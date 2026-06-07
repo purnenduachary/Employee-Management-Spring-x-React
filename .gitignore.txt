@@ -1,0 +1,16 @@
+# React
+EMS-FRONTEND/node_modules
+EMS-FRONTEND/dist
+
+# Spring Boot
+EMS-BACKEND/target
+
+# IntelliJ
+EMS-BACKEND/.idea
+EMS-BACKEND/*.iml
+
+# VS Code
+.vscode
+
+# Logs
+*.log
