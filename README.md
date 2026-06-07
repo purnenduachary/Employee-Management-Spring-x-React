@@ -45,9 +45,6 @@ EMS Project
 | PUT | /api/employees/{id} | Update employee |
 | DELETE | /api/employees/{id} | Delete employee |
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Author
 
